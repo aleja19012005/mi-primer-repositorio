@@ -1,0 +1,5 @@
+Nombre: Alejandra Knaudt
+Carrera: Ingeniería de Sistemas e Innovación Digital
+Materia: PFU-111 Programacion Fundamental
+Este es mi primer repositorio en GitHub
+Fecha: 13/10/2026
