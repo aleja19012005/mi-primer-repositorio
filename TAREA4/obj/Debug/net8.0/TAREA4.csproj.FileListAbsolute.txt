@@ -1,0 +1,15 @@
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\bin\Debug\net8.0\TAREA4.exe
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\bin\Debug\net8.0\TAREA4.deps.json
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\bin\Debug\net8.0\TAREA4.runtimeconfig.json
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\bin\Debug\net8.0\TAREA4.dll
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\bin\Debug\net8.0\TAREA4.pdb
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\TAREA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\TAREA4.AssemblyInfoInputs.cache
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\TAREA4.AssemblyInfo.cs
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\TAREA4.csproj.CoreCompileInputs.cache
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\TAREA4.sourcelink.json
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\TAREA4.dll
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\refint\TAREA4.dll
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\TAREA4.pdb
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\TAREA4.genruntimeconfig.cache
+C:\Users\alejandra\mi-primer-repositorio\TAREA4\obj\Debug\net8.0\ref\TAREA4.dll
